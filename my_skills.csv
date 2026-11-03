@@ -1,1 +1,11 @@
+skill,level,evidence
+Python,4,"Academic AI and machine learning projects using Python"
+Data Science,4,"Data preprocessing and predictive modeling projects"
+Machine Learning,4,"LSTM and BiLSTM forecasting projects"
+Deep Learning,4,"Neural networks and GAN image generation project"
+SQL,3,"Database design and querying in academic projects"
+Git,4,"Version control for academic and personal projects"
+REST API,3,"API integration in software development projects"
+Kotlin,2,"Mobile application development for an IoT access control system"
+Power BI,2,"Business Intelligence coursework"
 
