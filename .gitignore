@@ -1,0 +1,6 @@
+data/offers/raw_offers.json
+data/offers/jobspy_offers.json
+data/offers/merged_offers.json
+data/offers/structured_offers.json
+data/offers/matches_all_local.json
+output/cv_drafts/
